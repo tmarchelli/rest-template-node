@@ -1,0 +1,28 @@
+{
+  "name": "07-restserver",
+  "version": "1.0.0",
+  "description": "Please remember to execute ```npm install``` to build the node modules",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmarchelli/rest-template-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Marchelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmarchelli/rest-template-node/issues"
+  },
+  "homepage": "https://github.com/tmarchelli/rest-template-node#readme"
+}
